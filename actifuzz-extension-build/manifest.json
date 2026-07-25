@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Actifuzz — One Dashboard",
+  "short_name": "Actifuzz",
+  "version": "1.0.0",
+  "description": "Track activity, manage tasks, and monitor attendance—all in one place.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
