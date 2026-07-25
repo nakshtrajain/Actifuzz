@@ -1,0 +1,602 @@
+[
+  {
+    "quote": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "It always seems impossible until it's done.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+    "author": "Walt Whitman"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James"
+  },
+  {
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker"
+  },
+  {
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Happiness depends upon ourselves.",
+    "author": "Aristotle"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "quote": "Nothing is impossible. The word itself says 'I'm possible!'",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan"
+  },
+  {
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "Quality is not an act, it is a habit.",
+    "author": "Aristotle"
+  },
+  {
+    "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "quote": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn"
+  },
+  {
+    "quote": "If opportunity doesn't knock, build a door.",
+    "author": "Milton Berle"
+  },
+  {
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "quote": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller"
+  },
+  {
+    "quote": "The best preparation for tomorrow is doing your best today.",
+    "author": "H. Jackson Brown Jr."
+  },
+  {
+    "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "Opportunities don't happen. You create them.",
+    "author": "Chris Grosser"
+  },
+  {
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "Either you run the day or the day runs you.",
+    "author": "Jim Rohn"
+  },
+  {
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson"
+  },
+  {
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "quote": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "The only place where success comes before work is in the dictionary.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "quote": "What we think, we become.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "Small deeds done are better than great deeds planned.",
+    "author": "Peter Marshall"
+  },
+  {
+    "quote": "If you want to lift yourself up, lift up someone else.",
+    "author": "Booker T. Washington"
+  },
+  {
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "quote": "Try not to become a person of success, but rather try to become a person of value.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Discipline is the bridge between goals and accomplishment.",
+    "author": "Jim Rohn"
+  },
+  {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Courage is resistance to fear, mastery of fear—not absence of fear.",
+    "author": "Mark Twain"
+  },
+  {
+    "quote": "Energy and persistence conquer all things.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "The more difficult the victory, the greater the happiness in winning.",
+    "author": "Pelé"
+  },
+  {
+    "quote": "The successful warrior is the average person, with laser-like focus.",
+    "author": "Bruce Lee"
+  },
+  {
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "quote": "Every accomplishment starts with the decision to try.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "quote": "Aim for the moon. If you miss, you may hit a star.",
+    "author": "W. Clement Stone"
+  },
+  {
+    "quote": "Never, never, never give up.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill"
+  },
+  {
+    "quote": "Education is the most powerful weapon which you can use to change the world.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney"
+  },
+  {
+    "quote": "You become what you believe.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "quote": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle"
+  },
+  {
+    "quote": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins"
+  },
+  {
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "quote": "Success is getting what you want. Happiness is wanting what you get.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "quote": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "quote": "You never fail until you stop trying.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "quote": "Our lives begin to end the day we become silent about things that matter.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "quote": "If I cannot do great things, I can do small things in a great way.",
+    "author": "Martin Luther King Jr."
+  },
+  {
+    "quote": "Well done is better than well said.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Without continual growth and progress, such words as improvement, achievement, and success have no meaning.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "quote": "Fall seven times and stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "quote": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "The purpose of life is a life of purpose.",
+    "author": "Robert Byrne"
+  },
+  {
+    "quote": "Great things are done by a series of small things brought together.",
+    "author": "Vincent van Gogh"
+  },
+  {
+    "quote": "Everything you've ever wanted is on the other side of fear.",
+    "author": "George Addair"
+  },
+  {
+    "quote": "Keep going. Everything you need will come to you at the perfect time.",
+    "author": "Unknown"
+  },
+  {
+    "quote": "What you do today can improve all your tomorrows.",
+    "author": "Ralph Marston"
+  },
+  {
+    "quote": "Don't count the days, make the days count.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "quote": "Impossible is just an opinion.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "quote": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche"
+  },
+  {
+    "quote": "No pressure, no diamonds.",
+    "author": "Thomas Carlyle"
+  },
+  {
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "The biggest adventure you can ever take is to live the life of your dreams.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "quote": "Never confuse a single defeat with a final defeat.",
+    "author": "F. Scott Fitzgerald"
+  },
+  {
+    "quote": "Success is where preparation and opportunity meet.",
+    "author": "Bobby Unser"
+  },
+  {
+    "quote": "I am not a product of my circumstances. I am a product of my decisions.",
+    "author": "Stephen R. Covey"
+  },
+  {
+    "quote": "If you fell down yesterday, stand up today.",
+    "author": "H. G. Wells"
+  },
+  {
+    "quote": "Make each day your masterpiece.",
+    "author": "John Wooden"
+  },
+  {
+    "quote": "Things work out best for those who make the best of how things work out.",
+    "author": "John Wooden"
+  },
+  {
+    "quote": "Never let the fear of striking out keep you from playing the game.",
+    "author": "Babe Ruth"
+  },
+  {
+    "quote": "Do not wait for leaders; do it alone, person to person.",
+    "author": "Mother Teresa"
+  },
+  {
+    "quote": "Every strike brings me closer to the next home run.",
+    "author": "Babe Ruth"
+  },
+  {
+    "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "Vision without execution is hallucination.",
+    "author": "Thomas Edison"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "quote": "What lies behind you and what lies in front of you pales in comparison to what lies inside of you.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "quote": "The man who moves a mountain begins by carrying away small stones.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "An unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "quote": "Everything has beauty, but not everyone sees it.",
+    "author": "Confucius"
+  },
+  {
+    "quote": "Luck is what happens when preparation meets opportunity.",
+    "author": "Seneca"
+  },
+  {
+    "quote": "The happiness of your life depends upon the quality of your thoughts.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Waste no more time arguing what a good person should be. Be one.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "quote": "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "You have to dream before your dreams can come true.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Excellence happens not by accident. It is a process.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Small aim is a crime; have great aim.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "To succeed in your mission, you must have single-minded devotion to your goal.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Arise, awake, and stop not till the goal is reached.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "Take risks in your life. If you win, you can lead; if you lose, you can guide.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "All power is within you; you can do anything and everything.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "Talk to yourself once in a day, otherwise you may miss meeting an excellent person in this world.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "The greatest religion is to be true to your own nature.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "The future depends on what you do today.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "In a gentle way, you can shake the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Faith is the bird that feels the light when the dawn is still dark.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "quote": "You can't cross the sea merely by standing and staring at the water.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "quote": "Let your life lightly dance on the edges of time like dew on the tip of a leaf.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "quote": "The butterfly counts not months but moments, and has time enough.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "quote": "Everything comes to us that belongs to us if we create the capacity to receive it.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "quote": "Education is the manifestation of the perfection already in man.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "Comfort is no test of truth. Truth is often far from being comfortable.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "Purity, patience, and perseverance are the three essentials to success.",
+    "author": "Swami Vivekananda"
+  },
+  {
+    "quote": "Each one has to find his peace from within.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "The best brains of the nation may be found on the last benches of the classroom.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Man needs difficulties because they are necessary to enjoy success.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Look at the sky. We are not alone.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Great dreams of great dreamers are always transcended.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "My message, especially to young people, is to have courage to think differently.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Winners are not those who never fail but those who never quit.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "Success is when your signature becomes an autograph.",
+    "author": "A. P. J. Abdul Kalam"
+  },
+  {
+    "quote": "One individual may die for an idea, but that idea will, after his death, incarnate itself in a thousand lives.",
+    "author": "Subhas Chandra Bose"
+  },
+  {
+    "quote": "Life loses half its interest if there is no struggle.",
+    "author": "Subhas Chandra Bose"
+  },
+  {
+    "quote": "Freedom is not given—it is taken.",
+    "author": "Subhas Chandra Bose"
+  },
+  {
+    "quote": "A nation's culture resides in the hearts and in the soul of its people.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "quote": "Be truthful, gentle, and fearless.",
+    "author": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "quote": "Take to the path of dharma—the path of truth and justice.",
+    "author": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "quote": "The fragrance always stays in the hand that gives the rose.",
+    "author": "Heda Bejar (often quoted in India)"
+  },
+  {
+    "quote": "Success comes to those who dedicate everything to their passion in life.",
+    "author": "Sachin Tendulkar"
+  },
+  {
+    "quote": "People throw stones at you and you convert them into milestones.",
+    "author": "Sachin Tendulkar"
+  },
+  {
+    "quote": "Chase your dreams, but make sure you don't find shortcuts.",
+    "author": "Sachin Tendulkar"
+  },
+  {
+    "quote": "Self-belief and hard work will always earn you success.",
+    "author": "Virat Kohli"
+  },
+  {
+    "quote": "Whatever you want to do, do with full passion and work really hard towards it.",
+    "author": "Virat Kohli"
+  },
+  {
+    "quote": "Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine.",
+    "author": "Jack Ma (widely quoted in India)"
+  },
+  {
+    "quote": "You have to be driven by the idea, not by money.",
+    "author": "N. R. Narayana Murthy"
+  },
+  {
+    "quote": "Performance leads to recognition. Recognition brings respect. Respect enhances power.",
+    "author": "N. R. Narayana Murthy"
+  },
+  {
+    "quote": "Ups and downs in life are very important to keep us going.",
+    "author": "Sushant Singh Rajput"
+  },
+  {
+    "quote": "If your dreams don't scare you, they are not big enough.",
+    "author": "Deepinder Goyal"
+  },
+  {
+    "quote": "Success isn't about being the best. It's about being better than you were yesterday.",
+    "author": "Neeraj Chopra"
+  },
+  {
+    "quote": "Believe in the process and keep improving every single day.",
+    "author": "Neeraj Chopra"
+  }
+]
